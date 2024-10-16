@@ -1,3 +1,5 @@
+/* these are my favorite css reset  */
+
 *, *::before, *::after {
     box-sizing: border-box;
 }
@@ -109,6 +111,6 @@ button:not(:disabled) {
 
 .scroller {
     overscroll-behavior: contain;
-    height: 50vh; /*depends on the heigh of the element*/ 
+    height: 50vh; /*depends on the height of the element*/ 
     overflow-y: auto;
 }
